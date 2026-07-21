@@ -1,0 +1,6 @@
+In this project, the LED is controlled by a push button switch, and the control board here only plays the role of power supply in the circuit.
+Firstly, connect components with jumpers according to "hardware connection". Secondly, check the connection to confirm that there are no mistakes. Finally, connect the control board to computer with USB cable to avoid short circuit caused by contacting the wires.
+Note: In this book, we use the regular board as an example to make the circuits. The connection is the same on the control board with WiFi function.
+
+LED lights up when you press the push button switch, and it lights off when you release the button
+
